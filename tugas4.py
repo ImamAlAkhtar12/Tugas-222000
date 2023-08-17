@@ -1,3 +1,0 @@
-print("NAMA SAYA:IMAM AL AKHTAR")
-print("SAYA DARI KELAS X-RPL1")
-print("GAMBARAN SAYA UNTUK JURUSAN RPL INI ADALAH jurusan rpl ini berhubungan dengan cita cita saya yang sebagai pengusaha dan juga gambaran mengenai rpl adalah kerena saya berpikir di masa depan pasti semua pekerjaan berhubungan dengan komputer atau pun bahasa pemograman jadi untuk itu saya harus bisa bersaing dengan cara membekali diri saya dengan ilmu ilmu yang saya pelajari di rpl")
